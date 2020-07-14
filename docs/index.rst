@@ -3,6 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. raw:: html
+
+    <div class="alert">
+    <h1><strong>ALERT!!!</strong> This is the outdated version of docs</h1>
+    <h2>Go to <a href="https://dynaconf.com">dynaconf.com</a> for the new version docs.</h2>
+    </div>
+
 **dynaconf** a layered configuration system for Python applications -
 with strong support for `12-factor applications`_
 and extensions for `Flask`_ and `Django`_.
